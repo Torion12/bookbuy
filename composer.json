@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pusher/pusher-php-server": "^6.1",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
